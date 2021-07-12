@@ -565,34 +565,7 @@
       "emiamount": 1856.6666666666665,
       "emiid": 198
     },
-    {
-      "dueDate": "2028-02-15",
-      "loanAmount": 5990.000000000001,
-      "interestAmount": 666.6666666666666,
-      "emiamount": 1856.6666666666665,
-      "emiid": 199
-    },
-    {
-      "dueDate": "2028-03-15",
-      "loanAmount": 4800.000000000001,
-      "interestAmount": 666.6666666666666,
-      "emiamount": 1856.6666666666665,
-      "emiid": 200
-    },
-    {
-      "dueDate": "2028-04-15",
-      "loanAmount": 3610.000000000001,
-      "interestAmount": 666.6666666666666,
-      "emiamount": 1856.6666666666665,
-      "emiid": 201
-    },
-    {
-      "dueDate": "2028-05-15",
-      "loanAmount": 2420.000000000001,
-      "interestAmount": 666.6666666666666,
-      "emiamount": 1856.6666666666665,
-      "emiid": 202
-    },
+   
    
   ]
 }
